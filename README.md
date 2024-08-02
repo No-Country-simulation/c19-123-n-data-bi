@@ -26,6 +26,66 @@ Si comparamos el campo [NAME]
 
 ![Pasted image 20240802152901](https://github.com/user-attachments/assets/1f5e578a-7521-451e-a052-1644719a16c5)
 
+De esta forma conservaremos  el campo NAME del archivo listining que proviene de la carpeta comprimida
+
+Limpieza de valores Nulos
+
+La columna que lleva el registro del pais y el estado cuenta con valores nulos 
+![Pasted image 20240802153334](https://github.com/user-attachments/assets/ed9606e9-d9b0-4f9c-b0be-d985c636590d)
+
+Esta columna es de suma importancia por que se utilizara en futuros análisis de datos para que los dashboard se puedan filtra por país y por ciudad, por lo que mediante técnicas de imputación logramos llenar los valores nulos utilizando la librería   KNNImputer  de sklearn .
+
+
+
+![Pasted image 20240802153722](https://github.com/user-attachments/assets/c9e02271-f385-476d-9bae-582c38d96efc)
+
+
+AL terminar de normalizar nuestro primer dataset 
+
+
+![Pasted image 20240802153935](https://github.com/user-attachments/assets/a67ef1b2-f663-44bf-bdaa-6bb09e7fa912)
+
+
+
+Ya podemos dedicarnos a la construcción del modelo de datos y tableros de control que den respuesta a las preguntas de negocio.
+
+
+
+
+# 2. Creación de la Base de datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 3. Preguntas de Negocio y conclusiones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
