@@ -1,6 +1,6 @@
 # Proyecto de  Simulación sobre Análisis de datos
 
-[https://avatars.githubusercontent.com/u/171944709?s=200&v=4]
+![image](https://github.com/user-attachments/assets/df2d82ec-6847-4b89-bf3b-d757767a719f)
 
 
 
