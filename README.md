@@ -33,7 +33,7 @@ Limpieza de valores Nulos
 La columna que lleva el registro del pais y el estado cuenta con valores nulos 
 ![Pasted image 20240802153334](https://github.com/user-attachments/assets/ed9606e9-d9b0-4f9c-b0be-d985c636590d)
 
-Esta columna es de suma importancia por que se utilizara en futuros análisis de datos para que los dashboard se puedan filtra por país y por ciudad, por lo que mediante técnicas de imputación logramos llenar los valores nulos utilizando la librería   KNNImputer  de sklearn .
+Esta columna es de suma importancia por que se utilizara en futuros análisis de datos para que los dashboard se puedan filtrar por país y por ciudad, por lo que mediante técnicas de imputación logramos llenar los valores nulos utilizando la librería   KNNImputer  de sklearn .
 
 
 
