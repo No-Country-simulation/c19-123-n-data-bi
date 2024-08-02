@@ -12,7 +12,7 @@
 Dentro del repositorio de Airbnb se comparte data Publica donde se puede consultar con data con seis meses de antigüedad aproximadamente.
 ![Pasted image 20240802152155](https://github.com/user-attachments/assets/49ef8257-0995-46b2-8020-f469ece6310c)
 
-Uno de los principales sin retos que se presenta el analista es determinar  que información distinta se presenta  |  <br>listings.csv.gz  vs   listings.csv  
+Uno de los principales retos que se presenta para el analista, es determinar  que información distinta se presenta la |  <br>listings.csv.gz  vs   listings.csv  
 mediante pandas  determinamos que 
 
 ![Pasted image 20240802152734](https://github.com/user-attachments/assets/75073060-46df-41bb-90c6-66f70bf081ef)
