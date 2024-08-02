@@ -28,7 +28,7 @@ Si comparamos el campo [NAME]
 
 De esta forma conservaremos  el campo NAME del archivo listining que proviene de la carpeta comprimida
 
-Limpieza de valores Nulos
+### Limpieza de valores Nulos
 
 La columna que lleva el registro del pais y el estado cuenta con valores nulos 
 ![Pasted image 20240802153334](https://github.com/user-attachments/assets/ed9606e9-d9b0-4f9c-b0be-d985c636590d)
